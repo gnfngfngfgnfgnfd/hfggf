@@ -1,0 +1,101 @@
+# Material file for yoshi.obj
+
+newmtl cockscomb
+	Ns 12
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 1.0 1.0 1.0
+	Ka 0.2 0.2 0.2
+	map_Kd yoshi_tosaka.png
+
+newmtl eye_L
+	Ns 12
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 1.0 1.0 1.0
+	Ka 0.2 0.2 0.2
+	map_Kd yoshi_eye_1.png
+
+newmtl eye_R
+	Ns 12
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 1.0 1.0 1.0
+	Ka 0.2 0.2 0.2
+	map_Kd yoshi_eye_1.png
+
+newmtl face_side
+	Ns 12
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 1.0 1.0 1.0
+	Ka 0.2 0.2 0.2
+	map_Kd yoshi_faceside.png
+
+newmtl head_back
+	Ns 12
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 1.0 1.0 1.0
+	Ka 0.2 0.2 0.2
+	map_Kd yoshi_headback.png
+
+newmtl head_front
+	Ns 12
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 1.0 1.0 1.0
+	Ka 0.2 0.2 0.2
+	map_Kd yoshi_headfront.png
+
+newmtl head_top
+	Ns 12
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 1.0 1.0 1.0
+	Ka 0.2 0.2 0.2
+	map_Kd yoshi_headback.png
+
+newmtl lips
+	Ns 12
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 1.0 1.0 1.0
+	Ka 0.2 0.2 0.2
+	map_Kd yoshi_lips.png
+
+newmtl nose
+	Ns 12
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 1.0 1.0 1.0
+	Ka 0.2 0.2 0.2
+	map_Kd yoshi_nosetop.png
+
+newmtl nose_top
+	Ns 12
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 1.0 1.0 1.0
+	Ka 0.2 0.2 0.2
+	map_Kd yoshi_nosetop2.png
+
+newmtl tongue
+	Ns 12
+	d 1
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 1.0 1.0 1.0
+	Ka 0.2 0.2 0.2
+	map_Kd yoshi_tang.png
+
